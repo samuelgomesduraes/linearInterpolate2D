@@ -1,0 +1,9 @@
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\linearInterpolate2D\.mono\temp\bin\Debug\linearInterpolate2D.dll
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\linearInterpolate2D\.mono\temp\bin\Debug\linearInterpolate2D.pdb
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\linearInterpolate2D\.mono\temp\obj\Debug\linearInterpolate2D.csproj.AssemblyReference.cache
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\linearInterpolate2D\.mono\temp\obj\Debug\linearInterpolate2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\linearInterpolate2D\.mono\temp\obj\Debug\linearInterpolate2D.AssemblyInfoInputs.cache
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\linearInterpolate2D\.mono\temp\obj\Debug\linearInterpolate2D.AssemblyInfo.cs
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\linearInterpolate2D\.mono\temp\obj\Debug\linearInterpolate2D.csproj.CoreCompileInputs.cache
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\linearInterpolate2D\.mono\temp\obj\Debug\linearInterpolate2D.dll
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\linearInterpolate2D\.mono\temp\obj\Debug\linearInterpolate2D.pdb

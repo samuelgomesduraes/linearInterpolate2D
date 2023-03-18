@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b6Di0Lo4o7YuOViKxIsb0wJhguSp6Sk+fRhsYsd5qJE8HdHvDLo/1YGd4/AXXhHs/TsNidMT+WcHdm3IFkuUhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samuel\\Documents\\ARENA 8\\C#SHARP\\linearInterpolate2D\\linearInterpolate2D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samuel\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\samuel\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
